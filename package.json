@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-more",
+  "name": "cthacker-eslint-plugin-more",
   "version": "1.0.5",
   "license": "MIT",
   "keywords": [
@@ -15,7 +15,7 @@
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:WebbyLab/eslint-plugin-more.git"
+    "url": "git@github.com:cthacker-udel/eslint-plugin-more.git"
   },
   "engines": {
     "node": ">=6.0.0"
